@@ -28,5 +28,12 @@
 - CL!MB - macro and fitness tracker web app
 
 ## Projects I am working on
+- Brainspark Education - an educational crowd-sourced teaching platform founded on the Feynman Technique of teaching to learn better
 - CL!MB wirstband integration with the web app to allow for more accurate tracking (wristband in development by my peer)
 - FRC code for upcoming 2026-2027 season
+
+<div align="center">
+
+###  ⬇️ Check out my Github repositories below  ⬇️
+
+</div>
