@@ -24,8 +24,8 @@
 
 ## Projects I currently maintain
 - iTimer2 - all-in-one menu bar timing app for the Mac
-- SpeakUp - Python ML library designed to allow developers to integrate voice-controlled support into their applications and games
-- CL!MB - macro and fitness tracker web app
+- SpeakUp - Python ML library designed to allow developers to integrate voice-controlled support into their applications and games (winner of UTD AI Competition 2026)
+- CL!MB - macro and fitness tracker web app (awarded Conrad Innovator Distinction 2026)
 
 ## Projects I am working on
 - Brainspark Education - an educational crowd-sourced teaching platform founded on the Feynman Technique of teaching to learn better
